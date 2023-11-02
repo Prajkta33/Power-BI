@@ -1,3 +1,3 @@
 # Power-BI
 
-This power BI project
+This is a Power BI project
