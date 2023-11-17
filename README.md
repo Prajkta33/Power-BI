@@ -1,3 +1,6 @@
-# Power-BI
+Pizza Sales Analysis
 
-This is a Power BI project
+Dashboard Link:C:\Users\prajk\Downloads\pizza_sales_excel_file.xlsx
+
+Problem Statement
+
